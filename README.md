@@ -27,7 +27,7 @@ docker run --rm -v $(pwd):/app -w /app node npm run production
 ```bash
 cd ..
 ```
-- and create some files
+- and create some files in the /app directory (or another directory, if you choosed another one in Step 1)
 1) nginx.conf 
 ```bash
 worker_processes  1;
