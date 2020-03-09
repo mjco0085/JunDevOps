@@ -7,7 +7,7 @@ mkdir /app4 ; cd /app4
 ```bash
 git clone https://github.com/Saritasa/simplephpapp.git
 ```
-- Type cd simplephpapp for switch directory
+- Type cd simplephpapp to switch working directory
 ```bash
 cd simplephpapp
 ```
