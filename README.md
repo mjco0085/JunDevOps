@@ -1,7 +1,7 @@
 # Installation of simplephpapp
-- Create a directory for dockerfiles and app-files
+- Create a directory for dockerfiles and app-files (you can use any directory)
 ```bash
-mkdir /app4 ; cd /app4
+mkdir /app ; cd /app
 ```
 - Clone repository
 ```bash
