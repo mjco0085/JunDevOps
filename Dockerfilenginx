@@ -1,0 +1,2 @@
+FROM docker.io/nginx:latest AS nginx
+COPY --chown=www-data:www-data ./simplephpapp/public /var/www/app/public
