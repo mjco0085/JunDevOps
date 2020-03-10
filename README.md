@@ -1,4 +1,4 @@
-# Installation of simplephpapp
+# Installation of simplephpapp in Docker
 - Create a directory for dockerfiles and app-files (you can use any directory)
 ```bash
 mkdir /app ; cd /app
