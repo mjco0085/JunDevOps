@@ -102,7 +102,7 @@ docker-compose build nginx
 ```bash
 docker-compose up
 ```
---If you start containers in detach mode, you can check it by command
+--If you started containers in detach mode, you can check it by command
 ```bash
 docker ps
 ```
